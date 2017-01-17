@@ -6,3 +6,19 @@ Initially written in 2014 as a throwback to an earlier era of gaming, Broken War
 
 ## Support
 For support with the game, please either register an issue on GitHub, or contact me at: [jamesphillipsuk.com/Contact](http://jamesphillipsuk.com/Contact "Contact me!").
+
+## Install
+
+### On Windows,
+
+  1. Find a C compiler of your choice (preferrably GCC compatible, or you may need to edit the code).
+  2. Compile the main.c source code file into a Windows executable.
+  3. Run your Executable to start the game.
+  
+  
+### On Linux
+
+  1. Extract the Broken-Warrior-master file from your download.
+  2. `cd` into the directory you have just created.
+  3. Run the `sudo make` command.
+  4. Run `Broken-Warrior` to start the game.
