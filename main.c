@@ -1,13 +1,25 @@
 /* 
 * File:   main.c
 * Author: James Phillips
-* Copyright (C) James Phillips <james@jamesphillipsuk.com> 2014, 2017
-* This application is released under the GNU GPL v2 and has NO Warranty to the extent permissible by law.
-* The GNU General Public License version 2.0 can be found at: http://www.gnu.org/licenses/gpl-2.0.html
-*
-* LOG OF EDITS:
+* 
+* BROKEN WARRIOR, A C Text-Based Adventure-Game
+* Copyright (C) 2014, 2017 James Phillips <james@jamesphillipsuk.com>
+* 
+* This program is free software; you can redistribute it and/or
+* modify it under the terms of the GNU General Public License
+* as published by the Free Software Foundation; either version 2
+* of the License, or (at your option) any later version.
+* 
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU General Public License for more details.
+* 
+* You should have received a copy of the GNU General Public License
+* along with this program; if not, write to the Free Software
+* Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 *  
-* Created on 25th February 2014, 17:11
+* Created on: 25th February 2014, 17:11
 * Edited on: 26th February 2014
 * Edited on: 03rd March 2014
 * Edited on: 11th March 2014
@@ -17,10 +29,12 @@
 * Edited on: 24th May 2014
 * 
 * Remastered on: 17th January 2017
+* Edited on: 18th January 2017
 * 
-*BROKEN WARRIOR, A C Text-Based Adventure-Game
+* BROKEN WARRIOR, A C Text-Based Adventure-Game
 * By James Phillips
 * 
+* Version 1.0.1
 */
 
 #include <stdio.h>

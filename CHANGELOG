@@ -1,0 +1,6 @@
+2017-01-18 James Phillips <james@jamesphillipsuk.com>
+	*main.c: Updated and corrected copyright notice.
+    Ammended opening comment block.
+    Added version number, at 1.0.1 (To reflect patch changes from yesterday's release)
+
+	*CHANGELOG: File added and documented recent changes.
